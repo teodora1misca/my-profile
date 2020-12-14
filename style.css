@@ -1,0 +1,164 @@
+body {
+	font-family: 'Crimson Text', serif;
+	font-weight: lighter;
+	background: #EFD9D1;
+	color: #583D72 
+}
+
+p {
+
+	font-size: 25px;
+}
+
+h1, h2 {
+font-family: 'Castoro', serif;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 35px;
+}
+
+h1	{
+	color: yellow; 
+}
+#teo {
+	height: 200px; 
+	width: 200px; 
+	object-fit: cover;	
+	border: 1px solid white;
+	border-radius: 50%; 
+	box-shadow: 10px 10px 20px rgba(000,000,000,1)
+}
+#pierre {
+	height: 200px;
+	width: 200px; 
+	object-fit: cover;	
+	border: 1px solid white;
+	border-top-right-radius: : 50%; 
+	box-shadow: 10px 10px 20px rgba(000,000,000,1)
+}
+#avo {
+	height: 100px;
+	width:100px;
+	object-fit: cover;
+	border:1px;solid black;
+	border-radius: 50%;
+	box-shadow: 5px 5px 10px rgba(000,000,000,1)
+}
+#ca {
+	height: 100px;
+	width:100px;
+	object-fit: cover;
+	border:1px;solid black;
+	border-radius: 50%;
+	box-shadow: 5px 5px 10px rgba(000,000,000,1)
+}
+
+#eat {
+	height: 300px;
+	width: 300px; 
+	object-fit: cover;	
+	border: 1px solid white;
+	border-top-right-radius: : 50%; 
+	box-shadow: 10px 10px 20px rgba(000,000,000,1)
+}
+
+#pancakes {
+	height: 100px;
+	width:100px;
+	object-fit: cover;
+	border:1px;solid black;
+	border-radius: 50%;
+	box-shadow: 5px 5px 10px rgba(000,000,000,1)
+}
+#pomme {
+	height: 100px;
+	width:100px;
+	object-fit: cover;
+	border:1px;solid black;
+	border-radius: 50%;
+	box-shadow: 5px 5px 10px rgba(000,000,000,1)
+}
+.textblue {
+	color: 9#D0191; 
+}
+.textorange {
+	color: #965D62;
+}
+.textgreen {
+	color: #EA2C62;
+}
+.textred {
+	color: #EC5858;
+}
+
+.textrose {
+	color: #D35D6E; 
+
+}
+.textgrenat {
+	color: #8F384D;
+}
+
+.card {
+	width: 50%; 
+	text-align: center;
+	background-color: #F4EEED;
+	border: 5px solid white; 
+	border-radius: 8px;
+	box-shadow: 0 0 20px rgba(0,0,0, .1);
+	margin: 10px auto 10px auto; 
+	padding: 20px 15px; 
+}
+
+.troismots {
+	display: flex; 
+	flex-direction: row;
+	justify-content: center; 
+}
+
+.troismots p {
+	margin: 0 10px;
+}
+
+.troismots p:hover {
+	color: black;
+}
+
+.card:hover {
+	transform: scale(1.2);
+	transition: 
+	background-color: white;
+}
+a {
+	text-decoration: none;
+	color: #583D72;
+	font-weight: bold;
+  
+}
+a:hover {
+	color: black;
+}
+
+.list-horizontal {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-horizontal li {
+	display: inline;
+	padding: 10px;
+}
+.list-horizontal i{
+	font-size: 35px;
+}
+
+
+
+
+
+
+
+
